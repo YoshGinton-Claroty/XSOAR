@@ -14,7 +14,7 @@ In the XDome Instance Settings dialog box, do the following:
 * **Log Level**: Choose a log level from the drop-down list.
 * **Single engine**: Select No engine from the drop-down list.
 
-Click Test. Go to the Test results tab to view the results. If the test was successful, click Save & exit.
+Click Test. Go to the test results tab to view the results. If the test was successful, click Save & exit.
 
 
 
